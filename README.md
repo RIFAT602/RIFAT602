@@ -19,10 +19,7 @@
 <div align="center">
 	
 {
-	 "tools" : ![VsCode](https://img.shields.io/badge/-VSCode-007acc?style=flat&logo=visual-studio-code), ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=IntelliJ-IDEA), ![Anaconda](https://img.shields.io/badge/-Anaconda-95ed72?style=flat&logo=Anaconda), <br/>
-	"testing" : ![Mocha.js](https://img.shields.io/badge/-Mocha.js-323330?style=flat&logo=mocha&logoColor=Brown),
-	![Chai.js](https://img.shields.io/badge/-Chai.js-323330?style=flat&logo=chai&logoColor=red)
-	<br/>
+
 } 
 
 </div>
