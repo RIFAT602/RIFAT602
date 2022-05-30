@@ -5,7 +5,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/rifat602?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
   <a href="https://github.com/rifat602" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=samnoon1971&label=Views&color=green&style=flat-square" alt="views on github" />
+    <img src="https://komarev.com/ghpvc/?username=rifat602&label=Views&color=green&style=flat-square" alt="views on github" />
   </a>
 	
  
